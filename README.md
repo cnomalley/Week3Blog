@@ -2,7 +2,7 @@
 ------
 
 ### Art Piece 1
-![Hello World Project](images/reas.jpg?raw=true "Hello World")
+![Hello World Project](images/Image_1.png?raw=true "Hello World")
 
 I struggled with this Hello World project, and I was frustrated that I was unable to bring to life the vision and ideas I had in my head. I really wanted to incorporate photos and movement into the piece, but unfortunately every time I tried to code (researching other people’s code, too), it didn’t work. I’m hoping that with more learning and more practice, I’ll be able to achieve my initial intentions better.
 	
